@@ -1,5 +1,7 @@
 # Digit Recognizer
 simple number recognizer using MNIST dataset
-Accuracies:
+Accuracies: 
+```
 Testset : 94
 Trainset : 97
+```
